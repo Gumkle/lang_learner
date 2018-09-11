@@ -10,22 +10,10 @@ function randomWord(){
 
     console.log(pl[randomIndex]);
 
-    if(process.argv[4] == "helper"){
-        var i = 0;  // dots counter
-        var interval = setInterval(function() {
-            process.stdout.clearLine();  // clear current text
-            process.stdout.cursorTo(0);  // move cursor to beginning of line
-            i++;
-            var dots = new Array(i + 1).join("*");
-            process.stdout.write(dots);  // write text
-            if(i > 5){
-                console.log('\n');
-                clearInterval(interval);
-                console.log(niepl[randomIndex]);
-            }
-        }, 500);
-    }
-
+    process.stdin.on('data', () => {
+        console.log(niepl[randomIndex]);
+        process.exit(1);
+    });
 }
 
 /**
@@ -40,21 +28,10 @@ function randomSentence(){
 
     console.log(pl[randomIndex]);
 
-    if(process.argv[4] == "helper"){
-        var i = 0;  // dots counter
-        var interval = setInterval(function() {
-            process.stdout.clearLine();  // clear current text
-            process.stdout.cursorTo(0);  // move cursor to beginning of line
-            i++;
-            var dots = new Array(i + 1).join("*");
-            process.stdout.write(dots);  // write text
-            if(i > 5){
-                console.log('\n');
-                clearInterval(interval);
-                console.log(niepl[randomIndex]);
-            }
-        }, 500);
-    }
+    process.stdin.on('data', () => {
+        console.log(niepl[randomIndex]);
+        process.exit(1);
+    });
 }
 
 /**
