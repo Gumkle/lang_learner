@@ -1,5 +1,5 @@
 {
-    "words": {
+    "word": {
         "die Brücke" : "most",
         "der Park" : "park",
         "das Museum" : "muzeum",
@@ -41,7 +41,7 @@
         "das Praktikum" : "praktyka",
         "die Handynummer": "numer komórki"
     },
-    "sentences": {
+    "sentence": {
         "Könen Sie das bitte buchstabieren?" : "Czy mógłby pan to przeliterować?",
         "Freut mich" : "Miło mi",
         "Was möchten Sie?" : "Czego pan sobie życzy?",

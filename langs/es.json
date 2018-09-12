@@ -1,8 +1,50 @@
 {
-    "words": {
+    "word": {
+        "el sobrino":               "bratanek/siostrzeniec",
+        "la sobrina":               "bratanica/siostrzenica",
+        "set bonito":               "być ładnym",
+        "ser feo":                  "być brzydkim",
+        "ser calvo":                "być łysym",
+        "tener los ojos azul":      "mieć niebieskie oczy",
+        "tener los ojos oscuros":   "mieć ciemne oczy",
+        "llevar barba":             "mieć brodę",
+        "llevar bigote":            "mieć wąsy",
+        "llevar gafas":             "nosić okulary",
+        "ser rubio":                "być blondynem",
+        "ser moreno":               "być brunetem",
+        "tener el pelo corto":      "mieć włosy krótkie",
+        "tener el pelo list":       "mieć włosy gładkie",
+        "tener el pelo rizado":     "mieć włosy kręcone",
+        "el vestido":               "suknia",
+        "las gafas":                "okulary",
+        "el sombrero":              "kapelusz",
+        "la corbata":               "krawat",
+        "levantarse":               "wstawać",
+        "normalmente":              "zwykle",
+        "ducharse":                 "brać prysznic",
+        "rápidamente":              "szybko",
+        "ir(se) a":                 "iść do",
+        "más tarde":                "później",
+        "despertar(se)":            "budzić się",
+        "desayunar":                "jeść śniadanie",
+        "la tarde":                 "popołudnie, wieczór",
+        "empezar":                  "zaczynać",
+        "el supermercado":          "supermarket",
+        "comprar":                  "kupować",
+        "otro":                     "inny",
+        "recoger":                  "odbierać kogoś",
+        "la noche":                 "noc",
+        "preparar":                 "przygotowywać",
+        "la cena":                  "kolacja",
+        "acostarse":                "kłaść się do łóżka",
+        "quedarse":                 "zostawać",
+        "ver la tele(visión)":      "oglądać telewizję",
+        "el transcurso de día":     "przebieg dnia"
+    },
+    "sentence": {
 
     },
-    "sentences": {
+    "tmp": {
 
     }
 }
