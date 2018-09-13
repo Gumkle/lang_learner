@@ -39,12 +39,54 @@
         "acostarse":                "kłaść się do łóżka",
         "quedarse":                 "zostawać",
         "ver la tele(visión)":      "oglądać telewizję",
-        "el transcurso de día":     "przebieg dnia"
+        "el transcurso de día":     "przebieg dnia",
+        "diez" :                    "10",
+        "once" :                    "11",
+        "doce" :                    "12",
+        "trece" :                   "13",
+        "catorce" :                 "14",
+        "quice" :                   "15",
+        "dieciséis" :               "16",
+        "diecisiéte" :              "17",
+        "dieciócho" :               "18",
+        "diecinueve" :              "19",
+        "veinte" :                  "20",
+        "veinteuno" :               "21",
+        "veintedos" :               "22",
+        "treinta" :                 "30",
+        "treinta y uno" :           "31",
+        "treinta y dos" :           "32",
+        "cuarenta" :                "40",
+        "cincuenta" :               "50",
+        "sesenta" :                 "60",
+        "sietenta" :                "70",
+        "ochenta" :                 "80",
+        "noventa" :                 "90",
+        "El vuelo" :                "lot",
+        "sale":                     "wychodzić, opuszczać",
+        "desde...":                 "od...",
+        "hasta...":                 "do...",
+        "tomar":                    "pić"
     },
     "sentence": {
-
+        "Qué hora es?": "Która jest godzina?",
+        "Es la una y media": "Jest w pół do drugiej",
+        "Son las cuatro menos cuarto": "Jest za kwadrans czwarta",
+        "A qué hora sale en tren a valencia?": "O której godzinie odjeżdża pociąg do Walencji?",
+        "Sale a las doce en punto": "Odjeżdża punktualnie o dwunastej",
+        "Zaczynać szkołę": "Empeza el colegio"
     },
     "tmp": {
-
+        "el supermercado":          "supermarket",
+        "comprar":                  "kupować",
+        "otro":                     "inny",
+        "recoger":                  "odbierać kogoś",
+        "la noche":                 "noc",
+        "preparar":                 "przygotowywać",
+        "la cena":                  "kolacja",
+        "acostarse":                "kłaść się do łóżka",
+        "quedarse":                 "zostawać",
+        "ver la tele(visión)":      "oglądać telewizję",
+        "el transcurso de día":     "przebieg dnia"
     }
 }
