@@ -63,7 +63,7 @@
         "Italiener": "Włoch",
         "Schweizer": "Szwajcar",
         "Türke": "Turek",
-        "Abteilung": "Wydział",
+        "die Abteilung": "Wydział",
         "Wirklich?": "Naprawdę?",
         "der Stern": "gwizada"
     },
@@ -91,5 +91,8 @@
         "Wir möchten bitte zahlen" : "Chcielibyśmy zapłacić",
         "Die Rechnung, bitte!" : "Rachunek, poproszę",
         "Ich hätte gern ein Stück Apfelkuchen" : "Poproszę kawałek szarlotki"
+    },
+    "tmp": {
+
     }
 }
