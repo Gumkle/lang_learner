@@ -42,7 +42,7 @@
         "die Handynummer": "numer komórki",
         "das Dorf": "wieś",
         "der Fisch": "ryba",
-        "das Shliff": "statek",
+        "das Shiff": "statek",
         "das Tier": "zwierzę",
         "der Weinberg": "winnica",
         "die Burg": "zamek",
@@ -65,7 +65,23 @@
         "Türke": "Turek",
         "die Abteilung": "Wydział",
         "Wirklich?": "Naprawdę?",
-        "der Stern": "gwizada"
+        "der Stern": "gwizada",
+        "der Kunde": "klient",
+        "nutzen": "uzywać",
+        "teuer": "drogi",
+        "gut": "dobry",
+        "schlecht": "zły",
+        "kalt": "zimny",
+        "neu": "nowy",
+        "jung": "młody",
+        "schön": "piękny",
+        "bitter": "gorzki",
+        "langweilig": "nudny",
+        "süß": "słodki",
+        "heiß": "gorący",
+        "lang": "długi",
+        "hässlich": "brzydki",
+        "alt": "stary"
     },
     "sentence": {
         "Vielleicht kommen wir": "Może przyjdziemy",
@@ -90,7 +106,9 @@
         "Mit oder ohne Sahne?" : "Ze śmietaną czy bez?",
         "Wir möchten bitte zahlen" : "Chcielibyśmy zapłacić",
         "Die Rechnung, bitte!" : "Rachunek, poproszę",
-        "Ich hätte gern ein Stück Apfelkuchen" : "Poproszę kawałek szarlotki"
+        "Ich hätte gern ein Stück Apfelkuchen" : "Poproszę kawałek szarlotki",
+        "Hier spricht Klaus Huntemann": "Mówi Klaus Huntemann",
+        "Danke für dein Anruf. Auf Wiederhören!": "Dziękuję za telefon, do usłyszenia!"
     },
     "tmp": {
 
