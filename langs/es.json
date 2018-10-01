@@ -93,6 +93,17 @@
         "la semana":                "tydzień",
         "la negación":              "przeczenie",
         "quedar":                   "spotykać się",
+        "siempre":                  "zawsze",
+        "todos los dias":           "codziennie",
+        "tres veces por semana":    "trzy razy dziennie",
+        "los martes":               "we wtorki",
+        "todos los fines de semana":"w każdy weekend",
+        "una vez al mes":           "raz w miesiącu",
+        "raras veces":              "rzadko",
+        "nunca":                    "nigdy",
+        "antes de":                 "przed",
+        "después de":               "po",
+        "entre... y":               "między... a"
     },
     "sentence": {
         "Qué hora es?": "Która jest godzina?",
@@ -101,9 +112,18 @@
         "A qué hora sale en tren a valencia?": "O której godzinie odjeżdża pociąg do Walencji?",
         "Sale a las doce en punto": "Odjeżdża punktualnie o dwunastej",
         "Empeza el colegio": "Zaczynać szkołę",
-        "después del trabajo": "po pracy"
-    },
+        "después del trabajo": "po pracy",
+        "Dónde/A qué hora quedamos?": "O której godzinie się spotykamy?",
+        "Tienes ganas de ir al cine?": "Masz ochotę pójść do kina?",
+        "Qué quieres/te aptece hacer?": "Co chciałbyś robić?",
+        "Perfecto, de acuerdo.": "Świetnie, zgoda",
+        "Por qué no": "Czemu nie",
+        "Seria un placer": "Byłaby to dla mnie przyjemność",
+        "Lo siento, el viernes no puedo": "Przyrko mi, w piątek nie mogę",
+        "Qué tal a las cuatro después del colegio?": "A co powiesz na godzinę czwartą po szkole?"
+     },
     "tmp": {
-            
+        "desde": "od...",
+        "hasta": "do..."
     }
 }
