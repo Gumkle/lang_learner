@@ -124,6 +124,18 @@
      },
     "tmp": {
         "desde": "od...",
-        "hasta": "do..."
+        "hasta": "do...",
+        "siempre":                  "zawsze",
+        "todos los dias":           "codziennie",
+        "tres veces por semana":    "trzy razy dziennie",
+        "los martes":               "we wtorki",
+        "todos los fines de semana":"w każdy weekend",
+        "una vez al mes":           "raz w miesiącu",
+        "raras veces":              "rzadko",
+        "nunca":                    "nigdy",
+        "antes de":                 "przed",
+        "después de":               "po",
+        "entre... y":               "między... a"
+        
     }
 }
