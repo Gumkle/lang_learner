@@ -82,7 +82,25 @@
         "lang": "długi",
         "hässlich": "brzydki",
         "alt": "stary",
-        "modern": "nowoczesny"
+        "modern": "nowoczesny",
+        "die U-Bahn, -en": "metro",
+        "die Straßenbahn, -en": "tramwaj",
+        "die Haltestelle, -n": "przystanek",
+        "die Fahrkarte, -n": "bilet",
+        "einsteigen": "wsiadać",
+        "aussteigen": "wysiadać",
+        "umsteigen": "przesiadać się",
+        "der Zug, -:e": "pociąg",
+        "um wie viel Uhr": "o której godzinie",
+        "Wie spät ist es?": "Która jest godzina?",
+        "der Bus, -se": "autobus",
+        "der Fahrenkartenautomat": "automat biletowy",
+        "das Gleis": "peron",
+        "entwerten": "kasować",
+        "Einzelfahrkarte": "bilet jednorazowy",
+        "Mehrfahrtenkarte": "karnet",
+        "wann": "kiedy"
+        
     },
     "sentence": {
         "Vielleicht kommen wir": "Może przyjdziemy",
@@ -109,7 +127,15 @@
         "Die Rechnung, bitte!" : "Rachunek, poproszę",
         "Ich hätte gern ein Stück Apfelkuchen" : "Poproszę kawałek szarlotki",
         "Hier spricht Klaus Huntemann": "Mówi Klaus Huntemann",
-        "Danke für dein Anruf. Auf Wiederhören!": "Dziękuję za telefon, do usłyszenia!"
+        "Danke für dein Anruf. Auf Wiederhören!": "Dziękuję za telefon, do usłyszenia!",
+        "Wo können wir die Tickets kaufen?": "Gdzie możemy kupić bilety?",
+        "Wie lange fahren wir?": "Jak długo jedziemy?",
+        "Wie spät is es?": "Która jest godzina?",
+        "Müssen wir umsteigen?": "Musimy się przesiadać?",
+        "Auf welchem Gleis fährt der Zug ab?": "Z którego peronu odjeżdża pociąg?",
+        "Um wie viel Uhr kommen wir an?": "O której godzinie będziemy na miejscu?",
+        "Wann fährt der nächste Zug nach Ismaning?": "O której godzinie odjeżdża następny pociąg do Ismaning?"
+        
     },
     "tmp": {
 
